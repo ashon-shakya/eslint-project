@@ -11,7 +11,7 @@ export default [
       "camelcase": "error",
       "indent": ["error", 2],
       "quotes": ["error", "double"],
-      "no-console": "warn",
+      // "no-console": "warn",
       "no-unused-vars": "warn",
       "eqeqeq": ["warn"],
       "comma-dangle": ["warn", "never"],

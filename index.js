@@ -1,4 +1,5 @@
 function SayHello (name) {
+    var test = 10;
   if (name) {
     console.log("Hello " + name);
   } else {
